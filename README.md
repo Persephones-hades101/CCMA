@@ -1,3 +1,13 @@
+About the project
+• Developed a college counseling system with features including viewing colleges and branches , predicting
+rank , predicting college , and cutoff analysis .
+• Leveraged MySQL for database management, ensuring efficient data storage and retrieval.
+• Utilized Express.js for backend development, enabling robust API development and efficient CRUD
+operations .
+
+
+
+How to run????
 you will have to create the database to run this project.
 https://docs.google.com/spreadsheets/d/1dS5r4Ox0LUqCyq1UorG4wSBKFIm3P3EDhKQr1sK1vnc/edit?gid=1971599139#gid=1971599139
 this is the link to all the excel files (10-12) . You will have to use them to make your tables (make sure you make table for all the spreadsheet)
